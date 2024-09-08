@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Full stack development</h1>
+<h1 align="left">Full stack web development</h1>
 
 ###
 
