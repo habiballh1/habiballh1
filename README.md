@@ -1,8 +1,8 @@
-<h1 align="left">Hi there 👋!<br>I'm Habiballh Altjany -Full Stack Developer<br><br>Full-stack developer with expertise in both front-end and back-end technologies. Passionate about creating seamless web experiences from the database to the user interface.<br><br><br>Check out my projects that showcase everything from sleek front-end designs to scalable back-end services. Let’s collaborate and build something amazing!</h1>
+<h1 align="left">Hi there 👋!<br>I'm Habiballh Altjany -Full Stack Developer</h1>
 
 ###
 
-<h1 align="left">Full stack development</h1>
+<h2 align="left">Full-stack developer with expertise in both front-end and back-end technologies. Passionate about creating seamless web experiences from the database to the user interface.<br><br><br>Check out my projects that showcase everything from sleek front-end designs to scalable back-end services. Let’s collaborate and build something amazing!</h2>
 
 ###
 
